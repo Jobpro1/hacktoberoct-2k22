@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/substring-with-concatenation-of-all-words/discuss/13658/Easy-Two-Map-Solution-(C%2B%2BJava)
+
 //Runtime: 544 ms, faster than 56.37% of C++ online submissions for Substring with Concatenation of All Words.
 //Memory Usage: 23.1 MB, less than 56.80% of C++ online submissions for Substring with Concatenation of All Words.
 class Solution {
